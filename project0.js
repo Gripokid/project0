@@ -143,9 +143,3 @@ let appData = {
     income: [],
     savings: false
 };
-
-
-
-//aehruehguyegur
-///erg89rj8rj89
-//proverka
